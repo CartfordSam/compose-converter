@@ -52,7 +52,7 @@ setup(
     keywords='docker, container, fig, ecs, compose',
     packages=find_packages(),
     classifiers=[
-        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3.9',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
